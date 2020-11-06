@@ -18,7 +18,7 @@ android {
         versionCode 81
         versionName "7.1.5-unicef.1.int"
 
-        applicationId "org.unicef.ipc.oppia"
+        applicationId "org.unicef.training"
 
         minSdkVersion 21
         targetSdkVersion 29
